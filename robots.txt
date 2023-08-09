@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://elevenSevenxl.github.io/study_blog/x_blog/sitemap.xml
+Sitemap: https://elevenSevenxl.github.io/study_blog/sitemap.xml
