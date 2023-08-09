@@ -50,7 +50,7 @@ export default hopeTheme({
       // Linkedin: "https://example.com",
       // Pinterest: "https://example.com",
       // Pocket: "https://example.com",
-      // QQ: "1551536781",
+      QQ: "1551536781",
       // Qzone: "https://example.com",
       // Reddit: "https://example.com",
       // Rss: "https://example.com",
@@ -72,9 +72,9 @@ export default hopeTheme({
   },
 
   // page meta
-  metaLocales: {
-    editLink: "在 GitHub 上编辑此页",
-  },
+  // metaLocales: {
+  //   editLink: "在 GitHub 上编辑此页",
+  // },
 
   plugins: {
     blog: true,
