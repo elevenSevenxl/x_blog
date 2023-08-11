@@ -15,7 +15,7 @@ heroText: 没有蜡笔的小新
 heroFullScreen: true
 bgImage: /bg2.jpg
 # bgImageStyle: { background-size: cover }
-tagline: 总有人间一两风，填我十万八千梦
+tagline: 那热闹的场景永远只是消耗品, 充实整个人生的永远是孤独......
 article: false
 projects:
   # - icon: react
