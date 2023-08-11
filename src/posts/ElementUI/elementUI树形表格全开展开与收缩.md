@@ -14,15 +14,16 @@ tag:
   - ElementUI
 ---
 
-#### 1. 页面效果
+---
+### 1. 页面效果
 
-![image-20230809141537186](./images/content1.png)
+![](./images/content1.png)
 
-![image-20230809141515029](./images//content2.png)
+![](./images//content2.png)
 
-#### 2.页面代码
+### 2.页面代码
 
-```js
+```html
 <el-table
     ref="dataTreeList"
     size="mini"
@@ -63,7 +64,7 @@ tag:
 </el-table>
 ```
 
-#### 3. 全部展开和收缩
+### 3. 全部展开和收缩
 
 根据 element-ui 文档的 toggleRowExpansion
 ![](./images/content3.png)
@@ -89,3 +90,4 @@ methods: {
     },
   },
 ```
+---
