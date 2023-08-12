@@ -13,7 +13,4 @@ footer: <a href="https://icp.gov.moe/?keyword=20231319" target="_blank">萌 ICP 
 再回首，暮色旧，竹影婆娑月凌空。
 忆前尘，几多愁，花开花落尽知秋。
 
-![微信公众号](/assets/images/qrcode.jpg)
-欢迎关注，随缘更新！
-
 :::
