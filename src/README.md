@@ -27,5 +27,5 @@ projects:
   #   desc: 自动清除其他开发者console的loader
   #   link: https://github.com/mmdctjj/remove-others-console-loader
 
-footer: <a href="https://icp.gov.moe/?keyword=20231319" target="_blank">萌 ICP 备 20231319 号</a>
+footer: <a href="https://icp.gov.moe/?keyword=20231319" target="_blank">萌 ICP 备 20231319 号</a>  <a style="text-decoration:none;color:#51c4d3;" href="https://ecy.best/go.html" title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！" target="_blank"><img src="https://ecy.best/images/icon/icon64.png" style="width:24px;height:24px">异次元之旅</a>
 ---
