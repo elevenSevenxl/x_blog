@@ -8,7 +8,7 @@ export default defineUserConfig({
   lang: "zh-CN",
   title: "没有蜡笔的小新",
   description: "没有蜡笔的小新的博客",
-
+  head: [['meta', { name: 'baidu-site-verification', content: 'codeva-SqFEUX5pz3' }],
   theme,
 
   // Enable it with pwa
