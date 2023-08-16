@@ -8,11 +8,11 @@ const MR_HOPE_AVATAR =
 export default hopeTheme({
   hotReload: true,
 
-  hostname: "https://elevenSevenxl.github.io/study_blog",
+  hostname: "https://elevenSevenxl.github.io/x_blog",
 
   author: {
     name: "没有蜡笔的小新",
-    url: "https://elevenSevenxl.github.io/study_blog",
+    url: "https://elevenSevenxl.github.io/x_blog",
   },
 
   iconAssets: "iconfont",
