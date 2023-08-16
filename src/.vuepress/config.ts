@@ -9,7 +9,7 @@ export default defineUserConfig({
   title: "没有蜡笔的小新",
   description: "没有蜡笔的小新的博客",
   head: [
-    ['meta', { name: 'baidu-site-verification', content: 'codeva-SqFEUX5pz3' }]
+    ['meta', { name: 'baidu-site-verification', content: 'codeva-v0xi6qJ0XV' }]
   ],
   theme,
 
