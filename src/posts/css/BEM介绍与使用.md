@@ -1,6 +1,6 @@
 ---
 title: BEM介绍与使用
-cover: /assets/images/cover26.jpg
+cover: /assets/images/cover23.png
 isTimeLine: true
 date: 2023-09-20
 # order: 3
