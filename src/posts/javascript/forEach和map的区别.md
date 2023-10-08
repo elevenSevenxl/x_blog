@@ -14,6 +14,8 @@ tag:
   - javascript
 ---
 
+---
+
 > `map`会返回一个新的数组，而`forEach`不会
 
 forEach 和 map 都是 JavaScript 中用于遍历数组的函数，但它们的用法和返回值有所不同。
@@ -25,22 +27,22 @@ forEach 和 map 都是 JavaScript 中用于遍历数组的函数，但它们的�
 
 示例：
 
-```
-const arr = [1, 2, 3, 4, 5];
+```js
+const arr = [1, 2, 3, 4, 5]
 let sum = 0
-arr.forEach((element) => {
-	console.log(element * 2);
-});
+arr.forEach(element => {
+  console.log(element * 2)
+})
 
 // 输出：2, 4, 6, 8, 10
 
-arr.forEach((element) => {
-	if(element === 3) {
-		return  // 跳出当次循环3不在累加
-	}
-	sum += element
-});
-console.log(sum); // 12
+arr.forEach(element => {
+  if (element === 3) {
+    return // 跳出当次循环3不在累加
+  }
+  sum += element
+})
+console.log(sum) // 12
 ```
 
 ### map
@@ -49,11 +51,13 @@ map 是 JavaScript 数组的一个内置方法，它接受一个回调函数作�
 
 示例：
 
-```
-const arr = [1, 2, 3, 4, 5];
-const newArr = arr.map(function(element) {
-return element * 2;
-});
-console.log(newArr);
+```js
+const arr = [1, 2, 3, 4, 5]
+const newArr = arr.map(function (element) {
+  return element * 2
+})
+console.log(newArr)
 // 输出：[2, 4, 6, 8, 10]
 ```
+
+---
