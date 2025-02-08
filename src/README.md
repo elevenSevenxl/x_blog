@@ -11,7 +11,7 @@ heroImageStyle:
     borderRadius: '19% 81% 23% 77% / 44% 57% 43% 56%',
     boxShadow: '0 15px 18px rgba(0,0,0,0.2)'
   }
-heroText: 没有蜡笔的小新
+heroText: 没有蜡笔的小新~
 heroFullScreen: true
 bgImage: /bg2.jpg
 # bgImageStyle: { background-size: cover }
