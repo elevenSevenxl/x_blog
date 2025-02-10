@@ -208,4 +208,34 @@ plugins: [
 
 如果你的博客面向程序员，请使用`Giscus`，面向大众请选择`Waline`。
 
+首先需要你创建一个空的仓库。其次，由于评论需要用户登录到 GitHub，所以，我们还需要提供登录应用的服务。这里我们不用担心，因为 Github 为我们提供了简单的登陆应用的功能：giscus,首先安装 Giscus：https://github.com/apps/giscus
+![](./imgs/img1.png)
+点击 install 按钮，在配置详情页中选择对应的生效仓库。（这里我选择仅仅对评论仓库生效）
+![](./imgs/img2.png)
+然后回到评论仓库，点击 seething，选中 Feature 下的 Discussions
+![](./imgs/img3.png)
+点击 set up discussions，默认的文本不需要修改，点击提交即可出现如下页面，说明该功能启用成功。
+![](./imgs/img4.png)
+接着，我们前往https://giscus.app/zh-CN 设置你的仓库和分类
+
+在启用栏目复制以下几个信息。
+![](./imgs/img5.png)
+接着将以下信息复到 theme.ts 即可：
+
+```js
+ plugins: {
+    comment: {
+      // You should generate and use your own comment service
+
+      provider: "Giscus",
+      repo: "xxx/blogs-comments",
+      repoId: "xxxx", // 替换下
+      category: "Announcements",
+      categoryId: "xxxx" // 替换下
+    },
+ }
+```
+
+此时当我们评论之后，在评论仓库就可以查看到。
+
 本次教程到此结束。
