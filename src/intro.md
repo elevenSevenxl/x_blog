@@ -1,7 +1,7 @@
 ---
 icon: circle-info
 cover: /assets/images/cover3.jpg
-footer: <a href="https://icp.gov.moe/?keyword=20231319" target="_blank">萌 ICP 备 20231319 号</a>  <a href="https://beian.miit.gov.cn/" target="_blank">皖ICP备2024041468号-1</a>
+footer: <a href="https://icp.gov.moe/?keyword=20255521" target="_blank">萌 ICP 备 20255521 号</a>  <a href="https://beian.miit.gov.cn/" target="_blank">皖ICP备2024041468号-1</a>
 ---
 
 # Introduction

@@ -6,8 +6,8 @@ date: 2023-08-10
 # order: 3
 # sticky: true
 # star: true
-footer: <a href="https://icp.gov.moe/?keyword=20231319" target="_blank">萌 ICP 备 20231319 号</a>
-copyright: Copyright © 2023 没有蜡笔的小新
+footer: <a href="https://icp.gov.moe/?keyword=20255521" target="_blank">萌 ICP 备 20255521 号</a>
+copyright: Copyright © 2025 没有蜡笔的小新
 category:
   - ElementUI
 tag:
@@ -15,6 +15,7 @@ tag:
 ---
 
 ---
+
 ### 1. 全部展开和收缩
 
 根据 element-ui 文档的 toggleRowExpansion
@@ -41,7 +42,6 @@ methods: {
     },
   },
 ```
-
 
 ### 2. 页面效果
 
@@ -83,4 +83,5 @@ methods: {
   </el-table-column>
 </el-table>
 ```
+
 ---
